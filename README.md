@@ -12,7 +12,7 @@ This add-on has been tested with of 0.8.4 and of 0.9.0 with xcode 7.1 on osx Yos
 INSTALLATION
 ============
 
-* put the files in your add-on folder.
+* clone or download/unzip and put the project in your add-on folder. -ofxaddons/ofxOpenNI_NC
 * copy the folder named openni in the folder mac of the add-on to the data folder of your app.<br>
 Your app structure should look like this:<br>
 -apps/myApps/nameofmyapp/bin/data/openni<br>
