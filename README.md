@@ -1,8 +1,9 @@
 # ofxOpenNI_NC 
     
-This project is osx only.
+
 Just like we do, many artists still use the older Kinect for Xbox360 in their projects.<br>
-While there are still many ofxOpenNI add-ons out there, we noticed that many of them are out-dated and do not work anymore.
+While there are still many ofxOpenNI add-ons out there, we noticed that many of them are out-dated and do not work anymore.<br>
+This project is osx only.
 
 This is working version hacked together with copies of the libraries we had lying around and the [gameoverhack repo](https://github.com/gameoverhack/ofxOpenNI/tree/v1.0)
 
