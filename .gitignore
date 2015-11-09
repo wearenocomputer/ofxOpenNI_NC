@@ -1,9 +1,5 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
 
+<<<<<<< HEAD
 # Precompiled Headers
 *.gch
 *.pch
@@ -25,3 +21,5 @@
 *.exe
 *.out
 *.app
+=======
+>>>>>>> origin/master
