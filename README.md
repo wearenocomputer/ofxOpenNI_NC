@@ -15,13 +15,13 @@ INSTALLATION
 * copy the folder named openni in the folder mac of the add-on to the data folder of your app.<br>
 Your app structure should look like this:<br>
 -apps<br>
-    -myApps<br>
-        -nameofmyapp<br>
-            -bin<br>
-                -data<br>
-                    -openni<br>
-                        -config<br>
-                        -lib<br>
+  -myApps<br>
+    -nameofmyapp<br>
+      -bin<br>
+        -data<br>
+          -openni<br>
+            -config<br>
+            -lib<br>
 * in Xcode add the library libOpenNI.dylib to your project with -> Build Phases -> Link Binary with Libraries. 
 * in Xcode add the library search path to the folder that contains the libOpenNI.dylib
 
