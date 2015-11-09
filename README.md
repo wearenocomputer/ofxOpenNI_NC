@@ -1,12 +1,12 @@
 # ofxOpenNI_NC 
     
- 
+This project is osx only.
 Just like we do, many artists still use the older Kinect for Xbox360 in their projects.<br>
 While there are still many ofxOpenNI add-ons out there, we noticed that many of them are out-dated and do not work anymore.
 
 This is working version hacked together with copies of the libraries we had lying around and the [gameoverhack repo](https://github.com/gameoverhack/ofxOpenNI/tree/v1.0)
 
-This add-on has been tested with of 0.8.4 and xcode 7.1 on osx Yosemite 10.10.5
+This add-on has been tested with of 0.8.4 and of 0.9.0 with xcode 7.1 on osx Yosemite 10.10.5
 
 INSTALLATION
 ============
