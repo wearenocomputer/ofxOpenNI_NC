@@ -11,10 +11,16 @@ This add-on has been tested with of 0.8.4 and xcode 7.1 on osx Yosemite 10.10.5
 INSTALLATION
 ============
 
+
+
+
 * put the files in your add-on folder.
 * copy the folder named openni in the folder mac of the add-on to the data folder of your app.<br>
 Your app structure should look like this:<br>
--apps<br>
+    *-apps
+        *-myapps
+
+
   -myApps<br>
     -nameofmyapp<br>
       -bin<br>
